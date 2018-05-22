@@ -1,0 +1,38 @@
+<annotation>
+	<folder>speed-dreams-screenshots</folder>
+	<filename>Screen Shot 2018-05-20 at 16.00.24.png</filename>
+	<path>/Users/patriccorletto/Documents/uni/Bachelor/python/speed-dreams-screenshots/Screen Shot 2018-05-20 at 16.00.24.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lynx220</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>657</ymin>
+			<xmax>1201</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cavallo360</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1506</xmin>
+			<ymin>586</ymin>
+			<xmax>2143</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+</annotation>
