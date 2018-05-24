@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screen Shot 2018-05-20 at 16.02.11.png</filename>
+	<path>/Users/patriccorletto/Documents/uni/Bachelor/python/image_android/images/Screen Shot 2018-05-20 at 16.02.11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2164</width>
+		<height>1348</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Spirit300</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1392</xmin>
+			<ymin>375</ymin>
+			<xmax>2164</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cavallo360</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>913</xmin>
+			<ymin>653</ymin>
+			<xmax>995</xmax>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lynx220</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1004</xmin>
+			<ymin>681</ymin>
+			<xmax>1038</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+</annotation>

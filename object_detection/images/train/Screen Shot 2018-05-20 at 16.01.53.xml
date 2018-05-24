@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screen Shot 2018-05-20 at 16.01.53.png</filename>
+	<path>/Users/patriccorletto/Documents/uni/Bachelor/python/image_android/images/Screen Shot 2018-05-20 at 16.01.53.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2164</width>
+		<height>1352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cavallo360</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>929</xmin>
+			<ymin>651</ymin>
+			<xmax>1022</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Spirit300</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1717</xmin>
+			<ymin>409</ymin>
+			<xmax>2164</xmax>
+			<ymax>908</ymax>
+		</bndbox>
+	</object>
+</annotation>

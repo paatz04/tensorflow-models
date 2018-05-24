@@ -6,3 +6,15 @@ item{
         id: 2
         name: 'Cavallo360'
 }
+item{
+        id: 3
+        name: 'Spirit300'
+}
+item{
+        id: 4
+        name 'FMC_GT4'
+}
+item{
+        id: 5
+        name 'Boxer96'
+}
